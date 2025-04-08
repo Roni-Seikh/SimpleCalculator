@@ -16,7 +16,7 @@ Performs all basic operations: **Addition, Subtraction, Multiplication, Division
 
 ## 🖼️ Screenshots
 
-| Home Screen | Example Addition | Example Division |
+| Home Screen | Example Division | Example Addition |
 |-------------|------------------|------------------|
 | ![Screenshot1](app/screenshots/screenshot1.png) | ![Screenshot2](app/screenshots/screenshot2.png) | ![Screenshot3](app/screenshots/screenshot3.png) |
 
